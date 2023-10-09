@@ -2,7 +2,7 @@
 
 ## Set up your local environment
 
-Before installing Apache Beam, create and activate a virtual environment. Beam Python SDK supports Python 2.7, 3.5, 3.6, and 3.7. I recommend you create a virtual environment with Python 3+.
+Before installing Apache Beam, create and activate a virtual environment. Beam Python SDK supports Python 2.7, 3.5, 3.6, and 3.7. I recommend creating a virtual environment with Python 3+.
 
 ```bash
 # create a virtual environment using conda or virtualenv
